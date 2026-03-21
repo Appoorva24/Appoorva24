@@ -1,4 +1,4 @@
-<h1 align="center">Appoorva Khajuria</h1>
+<h1 align="center">Hi, I am Appoorva Khajuria</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer;AI+%26+ML+Student;Building+Real-World+Applications;Swift+Ecosystem&center=true&width=500&height=40&color=EB6F92">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=github_dark" />
 </p>
 
 ---
