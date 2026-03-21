@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=rose_pine" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=tokyonight" />
 </p>
 
 ---
