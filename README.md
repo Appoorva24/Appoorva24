@@ -114,21 +114,14 @@ Turning raw data into insights.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Appoorva24-E9B5D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Appoorva24)
-[![Linkedin](https://img.shields.io/badge/https://www.linkedin.com/in/appoorvakhajuria/?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/appoorvakhajuria/)
-
+[![Email](https://img.shields.io/badge/Email-appoorva2025@gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appoorva2025@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Appoorva_Khajuria-D1C4E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appoorvakhajuria/)
 
 <br/>
 
 **✨ Building applications that make a difference, one commit at a time ✨**
+**✨ Thanks for Visiting ! ✨**
+
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=120&section=footer" width="100%"/>
-
-**Thanks for visiting! Happy Coding! **
-
-</div>
