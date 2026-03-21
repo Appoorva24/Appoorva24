@@ -1,95 +1,106 @@
-<h1 align="center">Hey 👋, I'm Appoorva Khajuria</h1>
+<h1 align="center">Appoorva Khajuria</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer+%F0%9F%93%B1;AI+%26+ML+Student+%F0%9F%A7%A0;Building+Impactful+Apps+%F0%9F%92%A1;Swift+%7C+SwiftUI+%7C+Firebase&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer;Building+Focus4Good;Apps+that+solve+real+problems;Swift+%7C+SwiftUI+%7C+Firebase&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 🌸 About Me
-🎓 B.Tech CSE (AI & ML) @ Galgotias University (CGPA: 9.16)  
-📱 iOS Developer passionate about solving real-world problems  
-🧠 Focused on mental health, productivity & human-centered design  
-🚀 Exploring AI + AR + iOS integrations  
+## About
+I build iOS applications focused on real-world impact — especially around productivity and mental wellness.  
+Currently working on Focus4Good, where consistent focus translates into meaningful social impact.
 
 ---
 
-## 💡 My Mission
-> I build technology that improves lives —  
-> combining productivity, mental wellness, and social impact ❤️  
+## Focus4Good
+
+A productivity system designed for ADHD users — turning focus into impact.
+
+- Pomodoro-based structured workflow  
+- Virtual classroom experience using SceneKit  
+- Reward system linked to NGO contributions  
+- Firebase-powered community and tracking  
 
 ---
 
-## 🔭 Featured Projects
+## Projects
 
-### 🧠 ADHD Productivity & Focus App
-- 📌 Virtual classroom using SceneKit  
-- ⏱️ Pomodoro + daily scheduler system  
-- 🌍 Focus-points → NGO impact system  
-- 🔥 Firebase-based community & progress tracking  
+**ReBloom**  
+Postpartum support application with voice interaction and recovery tracking.
 
----
-
-### 🌱 ReBloom – Postpartum Support App
-- 🎙️ Voice messaging using AVFoundation  
-- 💖 Memory Jar for emotional milestones  
-- 🧘 Voice-guided recovery exercises  
-- ☁️ CloudKit-based data handling  
+**Swiggy Data Dashboard**  
+Data analysis project using Python and Power BI to extract operational insights.
 
 ---
 
-### 📊 Swiggy Data Analysis Dashboard
-- 🧹 Data preprocessing using Python  
-- 📈 Power BI interactive dashboard  
-- 📦 Insights on delivery KPIs & customer behavior  
+## Tech Stack
+
+<table>
+<tr>
+<td><strong>Category</strong></td>
+<td><strong>Skills</strong></td>
+</tr>
+
+<tr>
+<td>Languages</td>
+<td>
+<img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+</td>
+</tr>
+
+<tr>
+<td>iOS</td>
+<td>
+<img src="https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=apple"/>
+<img src="https://img.shields.io/badge/SceneKit-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AVFoundation-darkblue?style=for-the-badge"/>
+</td>
+</tr>
+
+<tr>
+<td>Backend</td>
+<td>
+<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/CloudKit-black?style=for-the-badge"/>
+</td>
+</tr>
+
+<tr>
+<td>Tools</td>
+<td>
+<img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`Swift` `Java` `Python` `MySQL`
-
-### ⚙️ Frameworks & Tools
-`SwiftUI` `RealityKit` `SceneKit` `AVFoundation`  
-`Firebase` `CloudKit` `Xcode`  
-
-### 📊 Data & Analytics
-`Power BI` `NumPy` `Pandas` `Matplotlib`
+## Achievements
+Smart India Hackathon 2025 Pre-Qualifier – Rank 19  
 
 ---
 
-## 🏆 Achievements
-🥇 Rank 19 – Smart India Hackathon (SIH) 2025 Pre-Qualifiers  
-📚 Consistent academic excellence (98% X, 90% XII, 9.16 CGPA)  
+## Stats
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧠 What Sets Me Apart
-- 💡 Purpose-driven app development  
-- 🎯 Focus on real-world impact  
-- 🎨 Strong UI/UX thinking  
-- 🚀 Combining AI + iOS + human needs  
-
----
-
-## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/appoorvakhajuria">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ "Building apps that don't just work — they matter." ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 </p>
