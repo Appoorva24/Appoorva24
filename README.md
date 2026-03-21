@@ -23,14 +23,12 @@ struct Developer {
     let name = "Appoorva Khajuria"
     let role = "iOS Developer"
     let university = "Galgotias University"
-    let cgpa = 9.16
-    
+
     var currentFocus: [String] {
         return [
             "Building ReBloom - Postpartum wellness app",
             "Developing Focus4Good productivity system",
             "Swift Student Challenge 2026",
-            "Compiler Design & Advanced CS coursework"
         ]
     }
     
