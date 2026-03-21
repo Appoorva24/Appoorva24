@@ -8,11 +8,15 @@
   Swift • SwiftUI • iOS • AI/ML
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=rose_pine" />
+</p>
+
 ---
 
 ## About
 
-I build iOS applications focused on solving real-world problems, especially in productivity, mental wellness, and user-centered design.  
+I build iOS applications focused on solving real-world problems, particularly in productivity, mental wellness, and user-centered design.  
 My work combines clean UI, structured logic, and backend integration to create meaningful user experiences.
 
 ---
@@ -20,10 +24,10 @@ My work combines clean UI, structured logic, and backend integration to create m
 ## Projects
 
 **Focus4Good**  
-A productivity system designed around structured focus and impact-driven workflows.
+Productivity system designed around structured focus and impact-driven workflows.
 
 **ADHD Productivity App**  
-Virtual classroom experience with scheduling, focus tracking, and behavioral design.
+Virtual classroom environment with scheduling, focus tracking, and behavioral design.
 
 **ReBloom**  
 Postpartum support application with voice interaction and recovery-focused features.
@@ -104,6 +108,6 @@ Smart India Hackathon 2025 Pre-Qualifier – Rank 19
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=rose_pine&hide_border=true&background=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=tokyonight&hide_border=true" height="150"/>
 </p>
