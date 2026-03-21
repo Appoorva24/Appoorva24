@@ -1,4 +1,4 @@
-<h1 align="center">Appoorva Khajuria</h1>
+<h1 align="center">Hi, I am Appoorva Khajuria</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer;AI+%26+ML+Student;Building+Real-World+Applications;Swift+Ecosystem&center=true&width=500&height=40&color=EB6F92">
@@ -6,6 +6,10 @@
 
 <p align="center">
   Swift • SwiftUI • iOS • AI/ML
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=rose_pine" />
 </p>
 
 ---
@@ -20,7 +24,7 @@ My work combines clean UI, structured logic, and backend integration to create m
 ## Projects
 
 **Focus4Good**  
-A productivity system designed around structured focus and impact-driven workflows.
+Productivity system designed around structured focus and impact-driven workflows.
 
 **ADHD Productivity App**  
 Virtual classroom environment with scheduling, focus tracking, and behavioral design.
@@ -104,10 +108,6 @@ Smart India Hackathon 2025 Pre-Qualifier – Rank 19
 ## Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Appoorva24&theme=rose_pine" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Appoorva24&theme=rose_pine" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Appoorva24&theme=rose_pine" height="150"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=tokyonight&hide_border=true" height="150"/>
+</p>, but mujhe bas yeh jo graph ka design ya represenataion nhi acha laga, mai chahite hun ki meri jo github sumaary and saath mai jo graph mai info reprenet kari hai woh ho, but either change colour of this ya design change karo, sirf jitna image mai dikh rha hai bas utna, baaki ka nhi
