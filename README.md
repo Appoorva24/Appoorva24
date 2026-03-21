@@ -26,44 +26,7 @@ struct Developer {
 
 ---
 
-## Featured Projects
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,25&height=2" width="80%"/>
-</p>
-
-### ReBloom — Postpartum Wellness App
-Supporting mothers and partners through recovery.
-* Dual UI (Mother + Partner)
-* SOS alert system
-* Guided exercises and reflections
-* Emotional and physical wellness tracking
-
-**Tech:** SwiftUI · SwiftData · AVFoundation · Lottie
-
----
-
-### Focus4Good — Productivity System
-Turning focus into real-world impact.
-* Goal-based task system
-* Habit tracking
-* Analytics dashboard
-* Motivation system
-
-**Tech:** Swift · UIKit · Firebase
-
----
-
-### Swiggy Data Dashboard — Analytics
-Turning raw data into insights.
-* Data visualization
-* Pattern recognition
-* Business insights
-
-**Tech:** Python · Pandas · Power BI
-
----
-
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 ### Languages & Frameworks
 <p>
@@ -103,6 +66,43 @@ Turning raw data into insights.
   <img src="https://img.shields.io/badge/GitHub-E9B5D9?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F8BBD0?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+---
+
+## Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,25&height=2" width="80%"/>
+</p>
+
+### ReBloom — Postpartum Wellness App
+Supporting mothers and partners through recovery.
+* Dual UI (Mother + Partner)
+* SOS alert system
+* Guided exercises and reflections
+* Emotional and physical wellness tracking
+
+**Tech:** SwiftUI · SwiftData · AVFoundation · Lottie
+
+---
+
+### Focus4Good — Productivity System
+Turning focus into real-world impact.
+* Goal-based task system
+* Habit tracking
+* Analytics dashboard
+* Motivation system
+
+**Tech:** Swift · UIKit · Firebase
+
+---
+
+### Swiggy Data Dashboard — Analytics
+Turning raw data into insights.
+* Data visualization
+* Pattern recognition
+* Business insights
+
+**Tech:** Python · Pandas · Power BI
 
 ---
 
