@@ -1,35 +1,39 @@
 <h1 align="center">Appoorva Khajuria</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer;AI+%26+ML+Student;Building+Real-World+Applications;Swift+Ecosystem&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=iOS+Developer;AI+%26+ML+Student;Building+Real-World+Applications;Swift+Ecosystem&center=true&width=500&height=40&color=EB6F92">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=github_dark" />
+  Swift • SwiftUI • iOS • AI/ML
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Appoorva24&theme=rose_pine" />
 </p>
 
 ---
 
 ## About
 
-I build iOS applications focused on solving real-world problems, particularly in productivity, mental wellness, and user-centric design.  
-My work combines technical depth with practical impact, often integrating backend systems and data-driven features.
+I build iOS applications focused on solving real-world problems, particularly in productivity, mental wellness, and user-centered design.  
+My work combines clean UI, structured logic, and backend integration to create meaningful user experiences.
 
 ---
 
 ## Projects
 
 **Focus4Good**  
-Productivity system designed for structured focus and meaningful outcomes.
+Productivity system designed around structured focus and impact-driven workflows.
 
 **ADHD Productivity App**  
-Virtual classroom experience with scheduling and focus tracking.
+Virtual classroom environment with scheduling, focus tracking, and behavioral design.
 
 **ReBloom**  
-Postpartum support application with voice-based interaction and recovery tracking.
+Postpartum support application with voice interaction and recovery-focused features.
 
 **Swiggy Data Dashboard**  
-Data analytics project focused on operational insights using Python and Power BI.
+Data analytics project extracting operational insights using Python and Power BI.
 
 ---
 
@@ -44,50 +48,50 @@ Data analytics project focused on operational insights using Python and Power BI
 <tr>
 <td>Languages</td>
 <td>
-<img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift"/>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Swift-EB6F92?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-9CCFD8?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-F6C177?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-31748F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
 <td>Frameworks</td>
 <td>
-<img src="https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=apple"/>
-<img src="https://img.shields.io/badge/UIKit-grey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SceneKit-darkgrey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RealityKit-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AVFoundation-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SwiftUI-EB6F92?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-9CCFD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SceneKit-6E6A86?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RealityKit-C4A7E7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AVFoundation-393552?style=for-the-badge"/>
 </td>
 </tr>
 
 <tr>
 <td>Backend & Cloud</td>
 <td>
-<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/CloudKit-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase"/>
+<img src="https://img.shields.io/badge/Firebase-F6C177?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/CloudKit-9CCFD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-31748F?style=for-the-badge&logo=supabase&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
 <td>Data & Analytics</td>
 <td>
-<img src="https://img.shields.io/badge/Pandas-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-9CCFD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-31748F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-F6C177?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-EBBCBA?style=for-the-badge"/>
 </td>
 </tr>
 
 <tr>
 <td>Tools</td>
 <td>
-<img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Xcode-9CCFD8?style=for-the-badge&logo=xcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-EB6F92?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Figma-C4A7E7?style=for-the-badge&logo=figma"/>
 </td>
 </tr>
 
@@ -104,9 +108,6 @@ Smart India Hackathon 2025 Pre-Qualifier – Rank 19
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Appoorva24&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Appoorva24&theme=tokyonight&hide_border=true" height="150"/>
 </p>
