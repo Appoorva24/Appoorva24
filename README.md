@@ -1,7 +1,7 @@
 # Appoorva Khajuria
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E9B5D9&center=true&vCenter=true&width=700&lines=iOS+Developer;AI+%26+ML+Enthusiast;Building+Impactful+Apps;Swift+%2B+Creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E9B5D9&center=true&vCenter=true&width=700&lines=iOS+Developer;BTech CSE Student;AI+%26+ML+Enthusiast;Building+Impactful+Apps;Swift+%2B+Creativity" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ Turning raw data into insights.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Turning raw data into insights.
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Turning raw data into insights.
 
 ---
 
-## 💭 Dev Quote
+## Dev Quote
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Turning raw data into insights.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
