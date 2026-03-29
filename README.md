@@ -81,7 +81,7 @@ Supporting mothers and partners through recovery.
 * Guided exercises and reflections
 * Emotional and physical wellness tracking
 
-**Tech:** SwiftUI · SwiftData · AVFoundation · Lottie
+**Tech:** SwiftUI · SwiftData · AVFoundation · Cloudkit
 
 ---
 
@@ -92,7 +92,7 @@ Turning focus into real-world impact.
 * Analytics dashboard
 * Motivation system
 
-**Tech:** Swift · UIKit · Firebase
+**Tech:** Swift · SwiftUI · RealityKit · VisionKit · Supabase
 
 ---
 
